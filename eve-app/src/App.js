@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Hello from './hello';
 import Goodbye from './goodbye';
+import JSXExamples from './components/JSXExamples';
 
 
 function App() {
